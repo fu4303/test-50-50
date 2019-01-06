@@ -4,12 +4,12 @@
  * */
 
 html {
-  background-color: #333;
+  background-color: #403434;
 }
 body {
   margin:0;
   background: #FFF;
-  color: #333;
+  color: #403434;
   font-family: 'PT Serif',Georgia,Times,'Times New Roman',serif;
   font-size: 1.2rem;
 }
@@ -31,7 +31,7 @@ blockquote {
  */
 header {
   margin-bottom: 4rem;
-  background-color: #333;
+  background-color: #403434;
   color: #FFF;
 }
 
@@ -66,7 +66,7 @@ header {
 
 .navmain {
   background-color: #CCC;
-  color: #333;
+  color: #403434;
   padding: 15px 10px;
   margin: 0;
 }
@@ -97,7 +97,7 @@ header {
 
 footer {
   padding: 10px;
-  background-color: #333;
+  background-color: #403434;
   color: #FFF;
 }
 
