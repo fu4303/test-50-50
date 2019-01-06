@@ -1,65 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Your Blog Name</title>
-	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
-	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
-	<link href="https://myurl.com/"/>
-	<updated>2018-09-30T00:00:00+00:00</updated>
-	<id>https://myurl.com/</id>
+	<title>Fifty by Fifty</title>
+	<subtitle>On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50 </subtitle>
+	<link href="https://50by50.snook.ca/feed/feed.xml" rel="self"/>
+	<link href="https://50by50.snook.ca/"/>
+	<updated>2018-12-11T00:00:00+00:00</updated>
+	<id>https://50by50.snook.ca/</id>
 	<author>
-		<name>Your Name Here</name>
-		<email>youremailaddress@example.com</email>
+		<name>Jonathan Snook</name>
+		<email>jonathan@snook.ca</email>
 	</author>
 	
 	<entry>
-		<title>This is my first post.</title>
-		<link href="https://myurl.com/eleventy-base-blog/posts/firstpost/"/>
-		<updated>2018-05-01T00:00:00+00:00</updated>
-		<id>https://myurl.com/eleventy-base-blog/posts/firstpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;// this is a command&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;function myCommand() {&lt;/span&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	let counter = 0;&lt;/mark&gt;&lt;br&gt;&lt;mark class=&quot;highlight-line highlight-line-active&quot;&gt;	counter++;&lt;/mark&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console.log(&#39;Test&#39;);&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+		<title>Quintonil</title>
+		<link href="https://50by50.snook.ca/restaurants/quintonil/"/>
+		<updated>2018-12-10T00:00:00+00:00</updated>
+		<id>https://50by50.snook.ca/restaurants/quintonil/</id>
+		<content type="html">	
+&lt;p&gt;I feel like an addict seeking desperately for his next fix. Each restaurant I go to, I wonder how many of those Ratatouille moments will hit me.  &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;We arrive at &lt;a href=&quot;http://www.quintonil.com/en/&quot;&gt;Quintonil&lt;/a&gt;, just as it opens, and are quickly taken to our seats. The decor is simple, with maybe a dozen tables in the restaurant. Our table is right at the back, near the entrance to the kitchen. Sadly, without a view of the frenetic dance that I envision behind. Throughout the evening, the servers are in and out like bees to a hive.  &lt;/p&gt;
+
+&lt;p&gt;I have a view of the bar. I can see the wine glasses being lined up, the next bottle being prepared. The style of glass provides a hint of the next dish to come.  &lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;The food was delightful. There were some unexpected surprises in the bunch that stood out. Like a nixtamalized tomato that tasted warm and rich instead of cool and acidic. (Today I learned about &lt;a href=&quot;https://en.wikipedia.org/wiki/Nixtamalization&quot;&gt;nixtamalization&lt;/a&gt;.) The bread was probably the best bread I’ve ever had, with a crust that was crunchy but not too thick, and a butter that disappeared way too quickly. (Thankfully, they brought more.)  &lt;/p&gt;
+
+&lt;p&gt;We were delighted and intrigued by the avocado tartare with escamoles. It had a wonderful contrast in textures and a “grain” that we couldn’t figure out what it was. Which leads me to another “today I learned,” &lt;a href=&quot;https://en.wikipedia.org/wiki/Escamol&quot;&gt;escamoles&lt;/a&gt; are the edible larvae and pupae of ants. As Wikipedia says, “they taste buttery and nutty.” It’s probably for the best I didn’t know that at the time. &lt;/p&gt;
+
+&lt;p&gt;My favourite dish of the evening was the pork in chile pasado. It was flavourful and balanced. 
+Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
+
+&lt;p&gt;My favourite dessert was the Sapodilla fruit rocks. It was such a new flavour that every bite was savoured.  &lt;/p&gt;
+
+&lt;p&gt;The alcohol pairings were quite good. Every drink, with the exception of one, paired extremely well. A particular standout was a Mexican beer, Finisima. It had a Belgian quality that was smooth and easy to drink. We also had an “orange” wine from the country of Georgia. Yet another “today I learned,” &lt;a href=&quot;https://winefolly.com/review/orange-wine/&quot;&gt;orange wine&lt;/a&gt; isn’t made from oranges.  &lt;/p&gt;
+
+&lt;p&gt;Not every dish was spectacular. The ceviche was a tad too citrusy. And there was a potato dish that was fine but a bit bland. The menu says it was supposed to be fish, so I suspect there wasn’t any good fish available that evening. These dishes were still a 7/10, so it’s not like I still didn’t enjoy them. &lt;/p&gt;
+
+&lt;p&gt;All in all, it was a wonderful evening. If you find yourself in Mexico City, I highly recommend spending an evening here. With the currency exchange right now, it’s an exceptional value.&lt;/p&gt;
+
+
+    &lt;p class=&quot;article-photos&quot;&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569270/quintonil/ibi5btmqtizoj1pfo9xu.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569270/quintonil/ibi5btmqtizoj1pfo9xu.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569282/quintonil/skaxm480ac0q4rei55ge.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569282/quintonil/skaxm480ac0q4rei55ge.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569296/quintonil/fr7cnpbozhtz5ilykofh.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569296/quintonil/fr7cnpbozhtz5ilykofh.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569307/quintonil/beieyjxkuqdxv5avvous.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569307/quintonil/beieyjxkuqdxv5avvous.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569323/quintonil/ns4mr7rbfmwzv6xb5bbg.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569323/quintonil/ns4mr7rbfmwzv6xb5bbg.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569339/quintonil/rzdbmcdfc1lqlt546zh5.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569339/quintonil/rzdbmcdfc1lqlt546zh5.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569352/quintonil/nduj0tynlaggxdn4mqdu.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569352/quintonil/nduj0tynlaggxdn4mqdu.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569370/quintonil/h1nchw5a5tlaxzcmawlh.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569370/quintonil/h1nchw5a5tlaxzcmawlh.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569385/quintonil/d2gomgj01nfjyrkizedr.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569385/quintonil/d2gomgj01nfjyrkizedr.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569400/quintonil/xe3nygvdbfttbsou3hbo.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569400/quintonil/xe3nygvdbfttbsou3hbo.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569417/quintonil/tzkjguhb4p14uiu4rxcq.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569417/quintonil/tzkjguhb4p14uiu4rxcq.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569432/quintonil/sw6y6hfvts3pxejhctdx.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569432/quintonil/sw6y6hfvts3pxejhctdx.jpg&quot;&gt;&lt;/a&gt;
+&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544569451/quintonil/npyf7maq3k8lwfpools3.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544569451/quintonil/npyf7maq3k8lwfpools3.jpg&quot;&gt;&lt;/a&gt;
+    &lt;/p&gt;	
+
+
 </content>
 	</entry>
 	
 	<entry>
-		<title>This is my second post.</title>
-		<link href="https://myurl.com/eleventy-base-blog/posts/secondpost/"/>
-		<updated>2018-07-04T00:00:00+00:00</updated>
-		<id>https://myurl.com/eleventy-base-blog/posts/secondpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://myurl.com/eleventy-base-blog/posts/firstpost/&quot;&gt;First post&lt;/a&gt;&lt;br&gt;
-&lt;a href=&quot;https://myurl.com/eleventy-base-blog/posts/thirdpost/&quot;&gt;Third post&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
+		<title>Pujol</title>
+		<link href="https://50by50.snook.ca/restaurants/pujol/"/>
+		<updated>2018-12-11T00:00:00+00:00</updated>
+		<id>https://50by50.snook.ca/restaurants/pujol/</id>
+		<content type="html">
 	
-	<entry>
-		<title>This is my third post.</title>
-		<link href="https://myurl.com/eleventy-base-blog/posts/thirdpost/"/>
-		<updated>2018-08-24T00:00:00+00:00</updated>
-		<id>https://myurl.com/eleventy-base-blog/posts/thirdpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// this is a command&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;myCommand&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;ins class=&quot;highlight-line highlight-line-add&quot;&gt;	&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/ins&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;del class=&quot;highlight-line highlight-line-remove&quot;&gt;	counter&lt;span class=&quot;token operator&quot;&gt;++&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/del&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// Test with a line break above this line.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;highlight-line&quot;&gt;console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&#39;Test&#39;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>This is my fourth post.</title>
-		<link href="https://myurl.com/eleventy-base-blog/posts/fourthpost/"/>
-		<updated>2018-09-30T00:00:00+00:00</updated>
-		<id>https://myurl.com/eleventy-base-blog/posts/fourthpost/</id>
-		<content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header &lt;a class=&quot;direct-link&quot; href=&quot;#section-header&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+    &lt;p&gt;Quick on the heels of &lt;a href=&quot;https://50by50.snook.ca/restaurants/quintonil/&quot;&gt;Quintonil&lt;/a&gt;, was a popover to Pujol. They &lt;em&gt;are&lt;/em&gt; in the same city, after all. The two restaurants are merely blocks away from each other. And fun fact, the husband and wife team that own Quintonil used to work at Pujol. &lt;/p&gt;
+
+
+    &lt;p&gt;I signed us up for the omakase taco experience. For those not familiar with omakase, it’s a “chef’s choice” experience often found at sushi restaurants. (Speaking of, the omakase experience at Bamboo Sushi in Portland, Oregon, is fantastic.)&lt;/p&gt;
+
+    &lt;p&gt;We arrived and were seated at the bar in the middle of a string of people also there to take in the tacos. There’s plenty of table space throughout the restaurant with a more traditional tasting menu. This omakase experience is its own thing and definitely felt Japanese-inspired. &lt;/p&gt;
+
+    &lt;p&gt;With the dinner were three alcohol pairing choices: mexican beer, mezcal, or sake. (See? There’s that Japanese influence.) Having never tried much mezcal, I was excited to try it and what better way than to have a glass with each course!&lt;/p&gt;
+
+    &lt;p&gt;The corn-themed evening kicked off with a trio of “street snacks” that included baby corn, a puffed corn tortilla with caviar and cream, and (if I recall correctly) a tofu paste. My descriptions are not doing any of these justice. I was floored but how amazing it was and had me excited for the rest to come.&lt;/p&gt;
+
+    &lt;p&gt;Next up was a tetela—a corn triangle—filled with beans with an uni salsa to top. &lt;/p&gt;
+
+    &lt;p&gt;From there, we moved through a series of taco courses: Eggplant, then amberjack, a scallop tostada, a seabass belly taco al pastor, and finally, a soft-shell crab taco. &lt;/p&gt;
+
+    &lt;p&gt;I think the amberjack and the seabass were my favourites of the bunch. &lt;/p&gt;
+
+    &lt;p&gt;Then, the pièce de résistance: the Mole Madre. I watched chef Enrique Olvera featured on Chef’s Table and in it they talked of this mole, a sauce cooked for over a year. Since that show has aired, it has continued to cook. On this evening, it had been 1762 days. That’s nearly five years! &lt;/p&gt;
+
+    &lt;p&gt;The mole madre is served with a mole nuevo in the middle, allowing a contrast between the old and the new. And let me just say that it did not disappoint. I would bathe in this, it was so good. &lt;/p&gt;
+
+    &lt;p&gt;Alas, all good things must come to an end. This meal came to a close with a trio of desserts and a final churro. It was probably the best churro I’ve had, with a crunchiness and tasty balance that wasn’t too sweet or too cinnamon. (I was told to try churros at &lt;a href=&quot;http://elmoro.mx/&quot;&gt;El Moro&lt;/a&gt; but didn’t have a chance to get there. A reason to go back!)&lt;/p&gt;
+
+    &lt;p&gt;Mexico City didn’t disappoint. &lt;/p&gt;
+
+    &lt;p class=&quot;article-photos&quot;&gt;&lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671398/pujol/IMG_20181211_183245.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671398/pujol/IMG_20181211_183245.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671398/pujol/IMG_20181211_183929.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671398/pujol/IMG_20181211_183929.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671398/pujol/IMG_20181211_185803.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671398/pujol/IMG_20181211_185803.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671400/pujol/IMG_20181211_190613.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671400/pujol/IMG_20181211_190613.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671399/pujol/IMG_20181211_191750.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671399/pujol/IMG_20181211_191750.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671398/pujol/IMG_20181211_192848.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671398/pujol/IMG_20181211_192848.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671398/pujol/IMG_20181211_194130.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671398/pujol/IMG_20181211_194130.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671400/pujol/IMG_20181211_195611.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671400/pujol/IMG_20181211_195611.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671400/pujol/IMG_20181211_201356.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671400/pujol/IMG_20181211_201356.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671400/pujol/IMG_20181211_203245.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671400/pujol/IMG_20181211_203245.jpg&quot;&gt;&lt;/a&gt;
+    &lt;a href=&quot;https://res.cloudinary.com/snookca/image/upload/v1544671398/pujol/IMG_20181211_204212.jpg&quot;&gt;&lt;img src=&quot;https://res.cloudinary.com/snookca/image/upload/t_snook-thumbnail/v1544671398/pujol/IMG_20181211_204212.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;	
+
+
 </content>
 	</entry>
 </feed>
