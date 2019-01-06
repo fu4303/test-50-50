@@ -18,6 +18,14 @@ a {
   color: #6A8565;
 }
 
+blockquote {
+  margin-left: 50px;
+
+  font-size: 2rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+
 /* ========
  * HEADER
  */
