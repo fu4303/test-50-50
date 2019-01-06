@@ -113,7 +113,7 @@ article {
   line-height: 2rem;
   display: grid;
   padding: 10px;
-  background: url(50.svg) no-repeat 100% calc(100% + 20px);
+  background: url(/img/50.svg) no-repeat 100% calc(100% + 20px);
 }
 
 article > * {
