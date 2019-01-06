@@ -147,9 +147,10 @@ article > h1 {
   margin: 0;
   font-family: battleslab, sans-serif;
   font-weight: 300;
-  font-size: 3.3rem;
   line-height: 1;
 
+  padding-top: .3rem;
+  font-size: 2.5rem;
   grid-row: 1;
 }
 
@@ -246,8 +247,8 @@ figcaption {
   }
 
   article > h1 {
-    padding-top: .3rem;
-    font-size: 2.5rem;
+    font-size: 3.3rem;
+    padding-top: 0;
   }
 }
 
