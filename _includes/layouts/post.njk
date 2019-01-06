@@ -4,6 +4,10 @@ templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
 
+<h2>{{ city }}</h2>
+<div class="article-intro">
+<h3 class="article-date">{{ date | readableDate }}</h3>
+<p>{{ listdata }}</p>
+</div>
 {{ content | safe }}
 
-<p><a href="{{ '/' | url }}">← Home</a></p>
