@@ -28,7 +28,7 @@ module.exports = function(eleventyConfig) {
 
   // only content in the `posts/` directory
   eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getFilteredByGlob("./posts/*").sort(function(a, b) {
+    return collection.getFilteredByGlob("./restaurants/*").sort(function(a, b) {
       return a.date - b.date;
     });
   });
