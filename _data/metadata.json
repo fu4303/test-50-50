@@ -1,15 +1,15 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
+  "title": "Fifty by Fifty",
+  "url": "https://50by50.snook.ca/",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50 ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://50by50.snook.ca/feed/feed.xml",
+    "id": "https://50by50.snook.ca/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Jonathan Snook",
+    "email": "jonathan@snook.ca"
   }
 }
