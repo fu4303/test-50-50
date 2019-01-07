@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<title>Fifty by Fifty</title>
 	<subtitle>On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50 </subtitle>
-	<link href="https://50by50.snook.ca/feed/feed.xml" rel="self"/>
-	<link href="https://50by50.snook.ca/"/>
+	<link href="https://fifty.snook.ca/feed/feed.xml" rel="self"/>
+	<link href="https://fifty.snook.ca/"/>
 	<updated>2018-12-11T00:00:00+00:00</updated>
-	<id>https://50by50.snook.ca/</id>
+	<id>https://fifty.snook.ca/</id>
 	<author>
 		<name>Jonathan Snook</name>
 		<email>jonathan@snook.ca</email>
@@ -13,9 +13,9 @@
 	
 	<entry>
 		<title>Saison</title>
-		<link href="https://50by50.snook.ca/restaurants/saison/"/>
+		<link href="https://fifty.snook.ca/restaurants/saison/"/>
 		<updated>2018-04-11T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/saison/</id>
+		<id>https://fifty.snook.ca/restaurants/saison/</id>
 		<content type="html">
 &lt;p&gt;We went to Saison before I had even thought to do this wacky challenge. At the time, I booked all four Michelin 3-star restaurants in San Francisco. All within the same week. It was an ambitious endeavour and clearly set the tone for the even bigger challenge that awaited me.&lt;/p&gt;
 
@@ -33,9 +33,9 @@
 	
 	<entry>
 		<title>Cosme</title>
-		<link href="https://50by50.snook.ca/restaurants/cosme/"/>
+		<link href="https://fifty.snook.ca/restaurants/cosme/"/>
 		<updated>2018-07-15T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/cosme/</id>
+		<id>https://fifty.snook.ca/restaurants/cosme/</id>
 		<content type="html">
 &lt;p&gt;Cosme serves up “fresh Mexican cuisine from one of the hottest young chefs in the US”, Daniela Soto-Innes.&lt;/p&gt;
 
@@ -56,9 +56,9 @@
 	
 	<entry>
 		<title>Eleven Madison Park</title>
-		<link href="https://50by50.snook.ca/restaurants/eleven/"/>
+		<link href="https://fifty.snook.ca/restaurants/eleven/"/>
 		<updated>2018-07-16T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/eleven/</id>
+		<id>https://fifty.snook.ca/restaurants/eleven/</id>
 		<content type="html">
 &lt;p&gt;As you might imagine, getting reservations means planning ahead. Reservations for a given month open up on the 1st of the previous month. For our July reservation, we booked June 1st. The rest of the restaurants were planned around this one.&lt;/p&gt;
 
@@ -84,9 +84,9 @@
 	
 	<entry>
 		<title>Le Bernardin</title>
-		<link href="https://50by50.snook.ca/restaurants/lebernardin/"/>
+		<link href="https://fifty.snook.ca/restaurants/lebernardin/"/>
 		<updated>2018-07-17T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/lebernardin/</id>
+		<id>https://fifty.snook.ca/restaurants/lebernardin/</id>
 		<content type="html">
 &lt;p&gt;New York in the middle of summer. A stifling 33ºC heat with a short subway ride from the Flatiron almost to Central Park. Le Bernardin&#39;s dress code says &lt;em&gt;jacket required&lt;/em&gt;. I have my jacket draped over my arm to prevent myself from showing up at the front door as a puddle of sweat. The humidity was thick with a thunderstorm looming. Sure enough, as we exit the subway station and head towards the restaurant, the sky opens up. Less than ideal conditions but at least a tasty meal awaits.&lt;/p&gt;
 
@@ -110,15 +110,15 @@
 
 &lt;p&gt;At the very end, we were left waiting for our bill. &lt;/p&gt;
 
-&lt;p&gt;I expected more out of the experience and after &lt;a href=&quot;https://50by50.snook.ca/restaurants/eleven/&quot;&gt;Eleven&lt;/a&gt; the night before, I definitely left Le Bernardin disappointed.&lt;/p&gt;
+&lt;p&gt;I expected more out of the experience and after &lt;a href=&quot;https://fifty.snook.ca/restaurants/eleven/&quot;&gt;Eleven&lt;/a&gt; the night before, I definitely left Le Bernardin disappointed.&lt;/p&gt;
 </content>
 	</entry>
 	
 	<entry>
 		<title>Alinea</title>
-		<link href="https://50by50.snook.ca/restaurants/alinea/"/>
+		<link href="https://fifty.snook.ca/restaurants/alinea/"/>
 		<updated>2018-08-09T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/alinea/</id>
+		<id>https://fifty.snook.ca/restaurants/alinea/</id>
 		<content type="html">
 &lt;p&gt;The 50 Before 50 Challenge continues. This time, in Chicago for the fifth of fifty restaurants. I flew in just for this, arriving the morning of the reservation and leaving the next day.&lt;/p&gt;
 
@@ -146,9 +146,9 @@
 	
 	<entry>
 		<title>Geranium</title>
-		<link href="https://50by50.snook.ca/restaurants/geranium/"/>
+		<link href="https://fifty.snook.ca/restaurants/geranium/"/>
 		<updated>2018-11-22T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/geranium/</id>
+		<id>https://fifty.snook.ca/restaurants/geranium/</id>
 		<content type="html">
 	
 
@@ -212,13 +212,13 @@
 	
 	<entry>
 		<title>Relae</title>
-		<link href="https://50by50.snook.ca/restaurants/relae/"/>
+		<link href="https://fifty.snook.ca/restaurants/relae/"/>
 		<updated>2018-11-24T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/relae/</id>
+		<id>https://fifty.snook.ca/restaurants/relae/</id>
 		<content type="html">
 	
 
-&lt;p&gt;Relae was a more relaxed and intimate vibe than &lt;a href=&quot;https://50by50.snook.ca/restaurants/geranium/&quot;&gt;Geranium&lt;/a&gt;. We were placed at the bar at the edge of the kitchen—an ideal spot to watch everything going on, including the two chefs prepping right in front of us.&lt;/p&gt;
+&lt;p&gt;Relae was a more relaxed and intimate vibe than &lt;a href=&quot;https://fifty.snook.ca/restaurants/geranium/&quot;&gt;Geranium&lt;/a&gt;. We were placed at the bar at the edge of the kitchen—an ideal spot to watch everything going on, including the two chefs prepping right in front of us.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;div&gt;
@@ -275,9 +275,9 @@
 	
 	<entry>
 		<title>Quintonil</title>
-		<link href="https://50by50.snook.ca/restaurants/quintonil/"/>
+		<link href="https://fifty.snook.ca/restaurants/quintonil/"/>
 		<updated>2018-12-10T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/quintonil/</id>
+		<id>https://fifty.snook.ca/restaurants/quintonil/</id>
 		<content type="html">	
 &lt;p&gt;I feel like an addict seeking desperately for his next fix. Each restaurant I go to, I wonder how many of those Ratatouille moments will hit me.  &lt;/p&gt;
 
@@ -334,12 +334,12 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	
 	<entry>
 		<title>Pujol</title>
-		<link href="https://50by50.snook.ca/restaurants/pujol/"/>
+		<link href="https://fifty.snook.ca/restaurants/pujol/"/>
 		<updated>2018-12-11T00:00:00+00:00</updated>
-		<id>https://50by50.snook.ca/restaurants/pujol/</id>
+		<id>https://fifty.snook.ca/restaurants/pujol/</id>
 		<content type="html">
 	
-    &lt;p&gt;Quick on the heels of &lt;a href=&quot;https://50by50.snook.ca/restaurants/quintonil/&quot;&gt;Quintonil&lt;/a&gt;, was a popover to Pujol. They &lt;em&gt;are&lt;/em&gt; in the same city, after all. The two restaurants are merely blocks away from each other. And fun fact, the husband and wife team that own Quintonil used to work at Pujol. &lt;/p&gt;
+    &lt;p&gt;Quick on the heels of &lt;a href=&quot;https://fifty.snook.ca/restaurants/quintonil/&quot;&gt;Quintonil&lt;/a&gt;, was a popover to Pujol. They &lt;em&gt;are&lt;/em&gt; in the same city, after all. The two restaurants are merely blocks away from each other. And fun fact, the husband and wife team that own Quintonil used to work at Pujol. &lt;/p&gt;
 
 
     &lt;p&gt;I signed us up for the omakase taco experience. For those not familiar with omakase, it’s a “chef’s choice” experience often found at sushi restaurants. (Speaking of, the omakase experience at Bamboo Sushi in Portland, Oregon, is fantastic.)&lt;/p&gt;
