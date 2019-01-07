@@ -1,12 +1,12 @@
 {
   "title": "Fifty by Fifty",
-  "url": "https://50by50.snook.ca/",
+  "url": "https://fifty.snook.ca/",
   "feed": {
     "subtitle": "On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50 ",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://50by50.snook.ca/feed/feed.xml",
-    "id": "https://50by50.snook.ca/"
+    "url": "https://fifty.snook.ca/feed/feed.xml",
+    "id": "https://fifty.snook.ca/"
   },
   "author": {
     "name": "Jonathan Snook",
