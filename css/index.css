@@ -115,6 +115,35 @@ header {
   font-size: 1.3rem;
 }
 
+/* =====
+ * MAP
+ */
+header {
+  position: relative;
+  z-index:1;
+}
+.subtitle {
+  position: relative;
+  z-index: 0;
+}
+
+.map {
+  position: absolute;
+  left: -100px;
+  top: -200px;
+  z-index: -1;
+  height: 551px;
+  width: 90vw;
+  padding-right: 10px;
+  background: url(/img/world.svg);
+  opacity: .5;
+  pointer-events: none;
+}
+
+article > * {
+  z-index: 1;
+}
+
 /* ========
  * FOOTER
  */
@@ -156,6 +185,7 @@ article:before {
   content:"";
   height: 50px;
   width: 50px;
+  z-index: 1;
 
   grid-row: 1;
   grid-column: 2;
@@ -263,6 +293,10 @@ figcaption {
   .navmain {
     padding: 15px 25px;
   }
+
+  .map {
+    padding-right: 25px;
+  }
 }
 
 @media (min-width: 500px) {
@@ -297,7 +331,7 @@ figcaption {
 
 
   article {
-    grid-template-columns: 75px 4fr 50px;
+    grid-template-columns: 75px 4fr 75px;
     margin: auto;
     max-width: 1400px;
   }
@@ -328,6 +362,10 @@ figcaption {
     font-size: 1.1rem;
   }
 
+  .map {
+    padding-right: 100px;
+  }
+
 
 }
 
@@ -347,6 +385,10 @@ figcaption {
 
   footer > div {
     padding: 50px 200px 50px 75px;
+  }
+
+  .map {
+    padding-right: 250px;
   }
 }
 
