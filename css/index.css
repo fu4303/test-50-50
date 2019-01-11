@@ -38,7 +38,8 @@ blockquote :last-child {
  */
 header {
   margin-bottom: 4rem;
-  background-color: #403434;
+  background: #403434 no-repeat 50% 55%/cover;
+  background-image: linear-gradient(to bottom, rgba(102,87,87,.5), rgba(102,87,87,.6)), url(/img/head-bg.jpg);
   color: #FFF;
 }
 
