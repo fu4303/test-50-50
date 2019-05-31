@@ -67,27 +67,37 @@
   </url>
   
   <url>
+    <loc>https://fifty.snook.ca/restaurants/maido/</loc>
+    <lastmod>2019-04-09</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fifty.snook.ca/restaurants/astrid/</loc>
+    <lastmod>2019-04-13</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fifty.snook.ca/about/</loc>
-    <lastmod>2019-03-31</lastmod>
+    <lastmod>2019-05-31</lastmod>
   </url>
   
   <url>
     <loc>https://fifty.snook.ca/posts/</loc>
-    <lastmod>2019-03-31</lastmod>
+    <lastmod>2019-05-31</lastmod>
   </url>
   
   <url>
     <loc>https://fifty.snook.ca/</loc>
-    <lastmod>2019-03-31</lastmod>
+    <lastmod>2019-05-31</lastmod>
   </url>
   
   <url>
     <loc>https://fifty.snook.ca/tags/</loc>
-    <lastmod>2019-03-31</lastmod>
+    <lastmod>2019-05-31</lastmod>
   </url>
   
   <url>
     <loc>https://fifty.snook.ca/</loc>
-    <lastmod>2019-03-31</lastmod>
+    <lastmod>2019-05-31</lastmod>
   </url>
 </urlset>
