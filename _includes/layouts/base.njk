@@ -6,6 +6,7 @@
   <title>{{ renderData.title or title or metadata.title }}</title>
   <link rel="stylesheet" href="https://use.typekit.net/rok2kxq.css">
   <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+  <link rel="stylesheet" href="{{ '/css/luminous-basic.min.css' | url }}">
   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
   <meta property="og:url" content="https://fifty.snook.ca{{ page.url | url }}">
   <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
@@ -61,5 +62,9 @@
    </div>
   </footer>
   <!-- Current page: {{ page.url | url }} -->
+  <script src="{{ '/assets/Luminous.min.js' | url }}"></script>
+  <script>
+    new LuminousGallery(document.querySelectorAll(".article-photos a"));
+  </script>
 </body>
 </html>
