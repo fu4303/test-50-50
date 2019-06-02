@@ -7,6 +7,12 @@
   <link rel="stylesheet" href="https://use.typekit.net/rok2kxq.css">
   <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
   <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+  <meta property="og:url" content="https://fifty.snook.ca{{ page.url | url }}">
+  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" name="description" content="{{ listdata }}">
+  <meta property="og:image" content="{{ ogimage }}">
+  <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
 
