@@ -167,6 +167,27 @@ footer h2 {
 }
 
 /* ========
+ * Navigation
+ * */
+
+.nextprev {
+  font-style: normal;
+  line-height: 1.2;
+}
+
+.nextprev  a {
+  display: block;
+  border-radius: 4px;
+  margin-bottom: 10px;
+  padding: 10px 15px;
+  background-color: #93B78C10;
+}
+
+.nextprev a:hover {
+  background-color: #93B78C20;
+}
+
+/* ========
  * ARTICLE
  * */
 
