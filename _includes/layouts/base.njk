@@ -11,8 +11,12 @@
   <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
   <meta property="og:type" content="article">
   <meta property="og:description" name="description" content="{{ listdata }}">
+  {% if ogimage %}
   <meta property="og:image" content="{{ ogimage }}">
   <meta name="twitter:card" content="summary_large_image">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  {% endif %}
 </head>
 <body>
 
