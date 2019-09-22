@@ -37,18 +37,45 @@
 
 
 
-			<h1>The Quest</h1>
-<p style="margin-top:20px;">There’s a scene in the movie, Ratatouille, where Anton Ego, the critical food critic, takes a bite of the titular dish. He is instantly transported to his childhood. There is something about being in that moment. It’s a moment I seek. The rest of world disappears. I can no longer hear. I can no longer see. All I can do is taste. And it is pure pleasure. </p>
+			<style>
+h1 + p { margin-top: 4rem; }
+article h2 { margin-top: 3rem; margin-bottom:0; }
+h2 + li { margin-top: 0; }
+@media (min-width: 1000px) {
+  article { grid-template-columns: 75px 1fr 75px; }
+}
+/* ========
+ * Restaurant List
+ */
 
-<p>This journey will take me around the world, to visit 50 of the <a href="https://www.theworlds50best.com">World’s Best Restaurants</a>. I am no food critic. I have no sway. I’m just a guy who enjoys really good food and enjoys to travel. </p>
+.restaurants {
+  line-height: 1.3;
+  column-width: 250px;
+  column-gap: 3rem;
+}
 
-<p>I have a Google Spreadsheet <a href="https://docs.google.com/spreadsheets/d/1NPckHqoxjhqoUIzrI2KSzU1AWeettEVEsykZYgUyd9w/edit?usp=sharing">list of all the restaurants</a>. Each year, a new list will come out and I will update this spreadsheet. What you’ll find on this site is a history of all the places I’ve been. </p>
+.restaurants > li {
+  padding-bottom: 1rem;
+  break-inside: avoid;
+}
+.restaurants-name { 
+  font-size: 1.3rem;
+}
+</style>
+<h1>The Quest</h1>
+<p>There is a scene in the movie, Ratatouille, when Anton Ego, the inimitable food critic, takes a bite of the titular dish. He is instantly transported to his childhood. There is something about being in that moment. The rest of world disappears. I can no longer hear. I can no longer see. All I can do is taste. And it is pure pleasure.</p>
+
+<p><em>This is the moment I seek.</em></p>
+
+<p>This journey will take me around the world, to visit 50 of the <a href="https://www.theworlds50best.com">World’s Best Restaurants</a>. I am no food critic. I have no sway. I’m just a guy who enjoys good food and enjoys to travel. </p>
+
+<p>I have a <a href="https://docs.google.com/spreadsheets/d/1NPckHqoxjhqoUIzrI2KSzU1AWeettEVEsykZYgUyd9w/edit?usp=sharing">spreadsheet of all the restaurants</a>. Each year, a new list comes out and I update this spreadsheet. What you’ll find on this site is a history of all the places I’ve been. </p>
 
 <p>Enjoy!</p>
 
 
 
-<p>Devoured</p>
+<h2>Devoured</h2>
 
 
 
@@ -162,13 +189,19 @@
     <div class="restaurants-date"><time class="postlist-date" datetime="2018-04-10">April 10, 2018</time></div>
   </li>
 
+  <li>
+    <div class="restaurants-name"><a href="/restaurants/ateliercrenn/" class="postlist-link">Atelier Crenn</a></div>
+    <div class="restaurants-city">San Francisco, USA</div>
+    <div class="restaurants-date"><time class="postlist-date" datetime="2019-07-12">July 12, 2019</time></div>
+  </li>
+
 </ol>
 
 
 <!--
 For when I have more reservations made...
 -->
-<p>Reserved</p>
+<h2>Reserved</h2>
 
 <ul class="restaurants">
   <li>
