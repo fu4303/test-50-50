@@ -99,22 +99,6 @@ header {
   content: "■";
 }
 
-/* ========
- * Restaurant List
- */
-
-.restaurants {
-  line-height: 1.3;
-  column-width: 250px;
-}
-
-.restaurants > li {
-  padding-bottom: 1rem;
-  break-inside: avoid;
-}
-.restaurants-name { 
-  font-size: 1.3rem;
-}
 
 /* =====
  * MAP
