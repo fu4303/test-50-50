@@ -84,7 +84,7 @@ header {
   padding: 0;
   display: block;
   list-style: none;
-  max-width: 1400px;
+  max-width: 1600px;
   box-sizing: border-box;
 }
 
@@ -141,7 +141,7 @@ footer {
 
 footer > div {
   margin: auto;
-  max-width: 1400px;
+  max-width: 1600px;
   box-sizing: border-box;
 
 }
@@ -333,7 +333,7 @@ figcaption {
 
   .logo {
     margin:auto;
-    max-width: 1450px;
+    max-width: 1650px;
   }
  
   .logo-text {
@@ -348,7 +348,7 @@ figcaption {
   article {
     grid-template-columns: 75px 4fr 75px;
     margin: auto;
-    max-width: 1400px;
+    max-width: 1600px;
   }
 
   article:before {
