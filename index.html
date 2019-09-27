@@ -52,7 +52,7 @@ h2 + li { margin-top: 0; }
 .restaurants {
   line-height: 1.3;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 25px;
   grid-auto-flow: dense;
 
@@ -62,13 +62,12 @@ h2 + li { margin-top: 0; }
 }
 
 .restaurants > li {
-  padding-bottom: 1rem;
   list-style: none;
   margin: 0;
 
   display:grid;
   grid-gap: 0;
-  grid-template-columns: 125px;
+  grid-template-columns: 115px;
 }
 
 .restaurants > li:before {
@@ -78,14 +77,14 @@ h2 + li { margin-top: 0; }
   height: 100px;
   width: 100px;
   text-align: right;
-padding: 10px;
-box-sizing: border-box;
+  padding: 10px;
+  box-sizing: border-box;
   line-height: 8rem;
   display: inline-block;
   font-size: 2rem;
   font-weight: bold;
   
-  grid-row: 1 / 5;
+  grid-row: 1;
   grid-column: 1;
 }
 
@@ -93,13 +92,13 @@ box-sizing: border-box;
   grid-column: 2;
 }
 
-.restaurants-name { 
-  font-size: 1.3rem;
-}
-
 .restaurants-reserved > li:before {
   content: "";
   opacity: .5;
+}
+
+.restaurants-name { 
+font-weight: bold;
 }
 
 
@@ -318,12 +317,16 @@ For when I have more reservations made...
 
 <ul class="restaurants restaurants-reserved">
   <li>
-    <div class="restaurants-name">Disfrutar</div>
-    <div class="restaurants-city">Barcelona, Spain</div>
+    <div>
+        <div class="restaurants-name">Disfrutar</div>
+        <div class="restaurants-city">Barcelona, Spain</div>
+    </div>
   </li>
   <li>
-    <div class="restaurants-name">Tickets</div>
-    <div class="restaurants-city">Barcelona, Spain</div>
+    <div>
+        <div class="restaurants-name">Tickets</div>
+        <div class="restaurants-city">Barcelona, Spain</div>
+    </div>
   </li>
 </ul>
 
