@@ -2,9 +2,11 @@
 <ol class="restaurants">
 {% for post in postslist %}
   <li>
+<div>
     <div class="restaurants-name"><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></div>
     <div class="restaurants-city">{{ post.data.city }}</div>
     <div class="restaurants-date"><time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></div>
+</div>
   </li>
 {% endfor %}
 </ol>
