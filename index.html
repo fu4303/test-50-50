@@ -109,8 +109,8 @@ font-weight: bold;
 }
 
 /* special restaurant list callouts */
-.restaurants li:nth-child(18n-11),
-.restaurants li:nth-child(18n-4) {
+.restaurants-devoured li:nth-child(18n-11),
+.restaurants-devoured li:nth-child(18n-4) {
   grid-column: span 2;
   grid-row: span 2;
   color: #FFF;
@@ -126,19 +126,21 @@ font-weight: bold;
   
 }
 
-.restaurants li:nth-child(18n-11):before,
-.restaurants li:nth-child(18n-4):before {
+.restaurants-devoured li:nth-child(18n-11):before,
+.restaurants-devoured li:nth-child(18n-4):before {
   line-height: 1.3rem;
 }
 
-.restaurants li:nth-child(18n-11) a,
-.restaurants li:nth-child(18n-4) a {
+.restaurants-devoured li:nth-child(18n-11) a,
+.restaurants-devoured li:nth-child(18n-4) a {
   color: #FFF;
 }
 
-.restaurants li:nth-child(7){ background-image: linear-gradient(110deg, #000, #000, rgba(0,0,0,0) 75%), url(https://res.cloudinary.com/snookca/image/upload/c_fill,h_500,w_1003/v1544027371/relae/IMG_20181124_193504.jpg); }
-.restaurants li:nth-child(14){ background-image: linear-gradient(110deg, #000, #000, rgba(0,0,0,0) 75%), url(https://res.cloudinary.com/snookca/image/upload/c_fill,h_500,w_1003/v1559328513/14-maido/IMG_20190409_194726.jpg); }
+.restaurants-devoured li:nth-child(7){ background-image: linear-gradient(110deg, #000, #000, rgba(0,0,0,0) 75%), url(https://res.cloudinary.com/snookca/image/upload/c_fill,h_500,w_1003/v1544027371/relae/IMG_20181124_193504.jpg); }
+.restaurants-devoured li:nth-child(14){ background-image: linear-gradient(110deg, #000, #000, rgba(0,0,0,0) 75%), url(https://res.cloudinary.com/snookca/image/upload/c_fill,h_500,w_1003/v1559328513/14-maido/IMG_20190409_194726.jpg); }
 
+.restaurants-devoured li:nth-child(17n-16):before {background-color: #93B78C; color: #FFF; border-color: #93B78C}
+.restaurants-devoured li:nth-child(11n+12):before {background-color: #403434; color: #FFF; border-color: #403434}
 
 
 </style>
@@ -160,7 +162,7 @@ font-weight: bold;
 
 
 
-<ol class="restaurants">
+<ol class="restaurants restaurants-devoured">
 
   <li>
 <div>
