@@ -165,7 +165,7 @@ header {
   .home-intro {
     display:grid;
     max-width: 1150px;
-    margin: 0 auto 6rem;
+    margin: 0 auto;
     grid-template-columns: 1fr 1fr;
 
   }
@@ -185,6 +185,18 @@ header {
   .home-intro h1 {
     font-size: 3rem;
   }
+}
+
+/* ASTERISM Light */
+.asterism {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 1fr min-content 1fr;
+}
+
+.asterism:before, .asterism:after {
+  content: "";
+  border-top: 1px solid #403434;
 }
 </style>
 </head>
@@ -211,6 +223,8 @@ header {
   </div>
 </div>
 
+
+<div class="asterism"><div>*</div></div>
 
 <h2>Devoured</h2>
 
@@ -405,6 +419,7 @@ header {
 </ol>
 
 
+<div class="asterism"><div>*</div></div>
 <!--
 For when I have more reservations made...
 -->
