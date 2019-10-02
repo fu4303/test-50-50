@@ -82,6 +82,10 @@ h2 + li { margin-top: 0; }
   grid-column: 2;
 }
 
+.restaurants-reserved {
+  margin-bottom: 6rem;
+}
+
 .restaurants-reserved > li:before {
   content: "";
   opacity: .5;
@@ -162,9 +166,16 @@ header {
 .home-intro h1 {
   font-family: battleslab, serif;
   font-weight: 900;
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.1;
   margin: 0 0 2rem;
+}
+
+
+@media (min-width: 500px) {
+  .home-intro h1 {
+    font-size: 2.3rem;
+  }
 }
 
 @media (min-width: 800px) {
@@ -179,7 +190,6 @@ header {
   .home-intro h1 {
     text-align: right;
     padding: 0 10% 0 0;
-    font-size: 2.3rem;
   }
 
   .home-intro div {
@@ -191,6 +201,12 @@ header {
   .home-intro h1 {
     font-size: 3rem;
   }
+}
+
+article h2 {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
 }
 
 /* ASTERISM Light */
