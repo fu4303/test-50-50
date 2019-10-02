@@ -13,32 +13,9 @@
   <meta property="og:title" content="Fifty by Fifty">
   <meta property="og:type" content="article">
   <meta property="og:description" name="description" content="On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50">
-  
   <meta property="og:image" content="https://fifty.snook.ca/img/head-bg.jpg">
   <meta name="twitter:card" content="summary_large_image">
-  
-</head>
-<body>
-
-<header>
-
-  <div class="logo">
-    <div class="logo-badge">50</div>
-    <div class="logo-text">
-      <a href="/">
-      On a Quest to Eat at the <br>
-      World’s 50 Best Restaurants <br>
-      Before I Turn 50
-      </a>
-    </div>
-  </div>
-</header>
-  <article>
-
-
-
-
-			<style>
+<style>
 h1 + p { margin-top: 4rem; }
 article h2 { margin-top: 3rem; margin-bottom:0; }
 h2 + li { margin-top: 0; }
@@ -142,8 +119,49 @@ font-weight: bold;
 .restaurants-devoured li:nth-child(17n-16):before {background-color: #93B78C; color: #FFF; border-color: #93B78C}
 .restaurants-devoured li:nth-child(11n+12):before {background-color: #403434; color: #FFF; border-color: #403434}
 
+/****
+  Home page Header
+*/
+header {
+  display:grid;
+  max-width: 1460px;
+  margin: 0 auto 6rem;
+  grid-template-columns: 1fr 1fr;
+}
+#logo, #logo-support {
+  background-color: #93B78C;
+  height: 0;
+  padding-bottom: 100%;
+  width: 100%;
+}
 
+#logo-support {
+  background-color: #403434;
+  background-image: url(https://res.cloudinary.com/snookca/image/upload/c_fill,h_800,w_800/v1550371160/13-heston/L1000463.jpg);
+  background-size: cover;
+}
+
+#logo {
+  position: relative;
+}
+
+#logo img {
+  width: 50%;
+  position: absolute;
+  right: 10%;
+  bottom: 10%;
+  
+}
 </style>
+</head>
+<body>
+
+<header>
+  <div id="logo"><img src="/img/ffty.svg"></div>
+  <div id="logo-support"></div>
+</header>
+<article>
+
 
 <h1>The Quest</h1>
 <p>There is a scene in the movie, Ratatouille, when Anton Ego, the inimitable food critic, takes a bite of the titular dish. He is instantly transported to his childhood. There is something about being in that moment. The rest of world disappears. I can no longer hear. I can no longer see. All I can do is taste. And it is pure pleasure.</p>
@@ -373,7 +391,6 @@ For when I have more reservations made...
 
 
 
-
   </article>
   <footer>
    <div>
@@ -394,9 +411,5 @@ For when I have more reservations made...
    </div>
   </footer>
   <!-- Current page: / -->
-  <script src="/assets/Luminous.min.js"></script>
-  <script>
-    new LuminousGallery(document.querySelectorAll(".article-photos a"));
-  </script>
 </body>
 </html>
