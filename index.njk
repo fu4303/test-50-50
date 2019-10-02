@@ -1,10 +1,26 @@
 ---
-layout: layouts/home.njk
 ogimage: https://fifty.snook.ca/img/head-bg.jpg
 listdata: On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50
 tags:
   - nav
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ renderData.title or title or metadata.title }}</title>
+  <link rel="icon" type="image/png" href="{{ '/img/fiftyicon64.png' | url }}" sizes="64x64">
+  <link rel="stylesheet" href="https://use.typekit.net/rok2kxq.css">
+  <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+  <link rel="stylesheet" href="{{ '/css/luminous-basic.min.css' | url }}">
+  <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+  <meta property="og:url" content="https://fifty.snook.ca{{ page.url | url }}">
+  <meta property="og:title" content="{{ renderData.title or title or metadata.title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:description" name="description" content="{{ listdata }}">
+  <meta property="og:image" content="{{ ogimage }}">
+  <meta name="twitter:card" content="summary_large_image">
 <style>
 h1 + p { margin-top: 4rem; }
 article h2 { margin-top: 3rem; margin-bottom:0; }
@@ -109,8 +125,49 @@ font-weight: bold;
 .restaurants-devoured li:nth-child(17n-16):before {background-color: #93B78C; color: #FFF; border-color: #93B78C}
 .restaurants-devoured li:nth-child(11n+12):before {background-color: #403434; color: #FFF; border-color: #403434}
 
+/****
+  Home page Header
+*/
+header {
+  display:grid;
+  max-width: 1460px;
+  margin: 0 auto 6rem;
+  grid-template-columns: 1fr 1fr;
+}
+#logo, #logo-support {
+  background-color: #93B78C;
+  height: 0;
+  padding-bottom: 100%;
+  width: 100%;
+}
 
+#logo-support {
+  background-color: #403434;
+  background-image: url(https://res.cloudinary.com/snookca/image/upload/c_fill,h_800,w_800/v1550371160/13-heston/L1000463.jpg);
+  background-size: cover;
+}
+
+#logo {
+  position: relative;
+}
+
+#logo img {
+  width: 50%;
+  position: absolute;
+  right: 10%;
+  bottom: 10%;
+  
+}
 </style>
+</head>
+<body>
+
+<header>
+  <div id="logo"><img src="/img/ffty.svg"></div>
+  <div id="logo-support"></div>
+</header>
+<article>
+
 
 <h1>The Quest</h1>
 <p>There is a scene in the movie, Ratatouille, when Anton Ego, the inimitable food critic, takes a bite of the titular dish. He is instantly transported to his childhood. There is something about being in that moment. The rest of world disappears. I can no longer hear. I can no longer see. All I can do is taste. And it is pure pleasure.</p>
@@ -149,3 +206,28 @@ For when I have more reservations made...
     </div>
   </li>
 </ul>
+
+
+
+  </article>
+  <footer>
+   <div>
+    <div class="about">
+      <h2>The Quest</h2>
+
+      <p>In 2018, shortly after my 44th birthday, I set myself a goal to visit 50 of the 
+        World's 50 Best Restaurants before I turn 50.</p> 
+      <p>A new list comes out every year, with new restaurants added to the list and some restaurants falling off the list. I can visit any restaurant that was on the list between 2017 and 2022. </p>
+
+      <h3>Why?</h3>
+      <p>I love to travel and I love great food. The list provides an excuse to travel to new places around the world all while enjoying some of the best food on the planet.</p>
+    </div>
+
+    <div class="copyright">
+      &copy; <a href="https://snook.ca/">Jonathan Snook</a> &nbsp;✻&nbsp; <a href="https://fifty.snook.ca/feed/feed.xml">The RSS feed</a> &nbsp;✻&nbsp; <a href="mailto:fifty@snk.ms">Email me</a>
+    </div>
+   </div>
+  </footer>
+  <!-- Current page: {{ page.url | url }} -->
+</body>
+</html>
