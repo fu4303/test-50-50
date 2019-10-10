@@ -180,7 +180,7 @@ article {
   line-height: 2rem;
   display: grid;
   padding: 10px;
-  background: url(/img/50.svg) no-repeat 100% calc(100% + 20px);
+/*  background: url(/img/50.svg) no-repeat 100% calc(100% + 20px); */
 }
 
 article > * {
@@ -392,3 +392,32 @@ figcaption {
   }
 }
 
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #EEE;
+    background-color: #171313;
+  }
+
+  a {
+    color: #93B78C;
+  }
+
+  .map {
+    background: linear-gradient(to top, #171313FF, #17131300 50%), url(/img/world.svg);
+    opacity: .1;
+  }
+
+  .subtitle svg g {
+    stroke: #EEE;
+  }
+
+  .asterism {
+    opacity: .5;
+  }
+
+  footer {
+    background-color: #241E1E;
+    color: #CCC;
+  }
+}
