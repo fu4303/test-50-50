@@ -150,6 +150,10 @@ footer h2 {
   font-family: battleslab, serif;
 }
 
+footer a {
+  color: #86A980;
+}
+
 /* ========
  * Navigation
  * */
