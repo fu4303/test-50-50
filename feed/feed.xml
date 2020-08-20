@@ -4,7 +4,7 @@
 	<subtitle>On a Quest to Eat at the World’s 50 Best Restaurants Before I Turn 50 </subtitle>
 	<link href="https://fifty.snook.ca/feed/feed.xml" rel="self"/>
 	<link href="https://fifty.snook.ca/"/>
-	<updated>2020-03-04T00:00:00-00:00</updated>
+	<updated>2020-03-04T00:00:00+00:00</updated>
 	<id>https://fifty.snook.ca/</id>
 	<author>
 		<name>Jonathan Snook</name>
@@ -14,7 +14,7 @@
 	<entry>
 		<title>Saison</title>
 		<link href="https://fifty.snook.ca/restaurants/saison/"/>
-		<updated>2018-04-11T00:00:00-00:00</updated>
+		<updated>2018-04-11T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/saison/</id>
     <summary>Saison was the very first restaurant on the quest. It was ranked 37th in 2017 and dropped to 46th in 2018. It’s also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -35,7 +35,7 @@
 	<entry>
 		<title>Cosme</title>
 		<link href="https://fifty.snook.ca/restaurants/cosme/"/>
-		<updated>2018-07-15T00:00:00-00:00</updated>
+		<updated>2018-07-15T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/cosme/</id>
     <summary>Cosme was the 2nd restaurant on the quest. It was ranked 40th in 2017 and jumped to 25th in 2018.</summary>
 		<content type="html">
@@ -59,7 +59,7 @@
 	<entry>
 		<title>Eleven Madison Park</title>
 		<link href="https://fifty.snook.ca/restaurants/eleven/"/>
-		<updated>2018-07-16T00:00:00-00:00</updated>
+		<updated>2018-07-16T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/eleven/</id>
     <summary>Eleven Madison Park was the 3rd restaurant on the quest. It was ranked № 1 in 2017 and fell ever so slightly to 4th in 2018. Eleven is also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -88,7 +88,7 @@
 	<entry>
 		<title>Le Bernardin</title>
 		<link href="https://fifty.snook.ca/restaurants/lebernardin/"/>
-		<updated>2018-07-17T00:00:00-00:00</updated>
+		<updated>2018-07-17T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/lebernardin/</id>
     <summary>Le Bernardin was the 4th restaurant on the quest. It was ranked 17th in 2017 and 26th in 2018. Le Bernardin is also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -121,7 +121,7 @@
 	<entry>
 		<title>Alinea</title>
 		<link href="https://fifty.snook.ca/restaurants/alinea/"/>
-		<updated>2018-08-09T00:00:00-00:00</updated>
+		<updated>2018-08-09T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/alinea/</id>
     <summary>Alinea was the 5th restaurant on the quest. It was ranked 21st in 2017 and dropped to 34th in 2018. It’s also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -176,7 +176,7 @@
 	<entry>
 		<title>Geranium</title>
 		<link href="https://fifty.snook.ca/restaurants/geranium/"/>
-		<updated>2018-11-22T00:00:00-00:00</updated>
+		<updated>2018-11-22T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/geranium/</id>
     <summary>Geranium is the 6th restaurant on my quest to go to the World’s 50 Best Restaurants. It’s 19th place for both 2017 and 2018 and is a Michelin 3-starred restaurant in Copenhagen.</summary>
 		<content type="html">
@@ -243,7 +243,7 @@
 	<entry>
 		<title>Relae</title>
 		<link href="https://fifty.snook.ca/restaurants/relae/"/>
-		<updated>2018-11-24T00:00:00-00:00</updated>
+		<updated>2018-11-24T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/relae/</id>
     <summary>Relae was the 7th restaurant on the quest to visit 50 of the World&#39;s 50 Best Restaurants before I turn 50. It was ranked 39th in 2017 and, unfortunately, fell out of the top 50 for 2018. It’s also a Michelin 1-star restaurant.</summary>
 		<content type="html">
@@ -307,7 +307,7 @@
 	<entry>
 		<title>Quintonil</title>
 		<link href="https://fifty.snook.ca/restaurants/quintonil/"/>
-		<updated>2018-12-10T00:00:00-00:00</updated>
+		<updated>2018-12-10T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/quintonil/</id>
     <summary>Quintonil was the 8th restaurant on my quest to visit 50 of the World’s 50 Best Restaurants. It ranked 22nd on the list in 2017 and 11th in 2018.</summary>
 		<content type="html">	
@@ -367,7 +367,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Pujol</title>
 		<link href="https://fifty.snook.ca/restaurants/pujol/"/>
-		<updated>2018-12-11T00:00:00-00:00</updated>
+		<updated>2018-12-11T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/pujol/</id>
     <summary>Pujol was the 9th restaurant on my quest to visit 50 of the World’s 50 Best Restaurants. It ranked 20th on the list in 2017 and 13th in 2018.</summary>
 		<content type="html">
@@ -416,7 +416,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>The Clove Club</title>
 		<link href="https://fifty.snook.ca/restaurants/thecloveclub/"/>
-		<updated>2019-01-18T00:00:00-00:00</updated>
+		<updated>2019-01-18T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/thecloveclub/</id>
     <summary>The Clove Club was the 10th restaurant on the quest. It was 26th on the list for 2017 and 33rd for 2018. It also has been awarded 1 Michelin star.</summary>
 		<content type="html">
@@ -484,7 +484,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Lyle’s</title>
 		<link href="https://fifty.snook.ca/restaurants/lyles/"/>
-		<updated>2019-01-19T00:00:00-00:00</updated>
+		<updated>2019-01-19T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/lyles/</id>
     <summary>Lyle’s was the 11th restaurant on my quest. It ranked 38th in 2018 and was awarded one Michelin star in 2019.</summary>
 		<content type="html">
@@ -539,7 +539,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>The Ledbury</title>
 		<link href="https://fifty.snook.ca/restaurants/theledbury/"/>
-		<updated>2019-01-21T00:00:00-00:00</updated>
+		<updated>2019-01-21T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/theledbury/</id>
     <summary>The Ledbury is the 12th restaurant on my quest to visit 50 of the World’s 50 Best Restaurants. It was 42nd on the list in 2018 and 27th on the list in 2017. It has also received 2 Michelin stars in 2019.</summary>
 		<content type="html">&lt;p&gt;With a cold virus still lingering days after beginning this London adventure, we venture on for A Night at The Ledbury! &lt;/p&gt;
@@ -608,7 +608,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Dinner by Heston Blumenthal</title>
 		<link href="https://fifty.snook.ca/restaurants/heston/"/>
-		<updated>2019-01-22T00:00:00-00:00</updated>
+		<updated>2019-01-22T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/heston/</id>
     <summary>Dinner by Heston Blumenthal was the 13th restaurant on my quest to visit 50 of the World’s 50 Best Restaurants. It was 36th on the list in 2017 and 45th on the list in 2018. It also has been awarded 2 Michelin stars in 2019.</summary>
 		<content type="html">
@@ -647,7 +647,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Maido</title>
 		<link href="https://fifty.snook.ca/restaurants/maido/"/>
-		<updated>2019-04-09T00:00:00-00:00</updated>
+		<updated>2019-04-09T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/maido/</id>
     <summary>Maido was the 14th restaurant on the quest. It was 8th on the list in 2017 and 7th on the list in 2018.</summary>
 		<content type="html">
@@ -714,7 +714,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Astrid y Gaston</title>
 		<link href="https://fifty.snook.ca/restaurants/astrid/"/>
-		<updated>2019-04-13T00:00:00-00:00</updated>
+		<updated>2019-04-13T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/astrid/</id>
     <summary>Astrid y Gaston was the 15th restaurant on the quest.  It was 33rd on the list in 2017 and 39th in 2018.</summary>
 		<content type="html">
@@ -796,7 +796,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>De Librije</title>
 		<link href="https://fifty.snook.ca/restaurants/delibrije/"/>
-		<updated>2019-05-14T00:00:00-00:00</updated>
+		<updated>2019-05-14T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/delibrije/</id>
     <summary>De Librije was the 16th restaurant on the quest. It was 34th on the list in 2017 and fell out of the top 50 in 2018. It is also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -884,7 +884,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Hof van Cleve</title>
 		<link href="https://fifty.snook.ca/restaurants/hofvancleve/"/>
-		<updated>2019-05-16T00:00:00-00:00</updated>
+		<updated>2019-05-16T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/hofvancleve/</id>
     <summary>Hof van Cleve is the 17th restaurant on the quest. It was 50th on the list in 2017 and fell out of the top 50 in 2018. It is also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -963,7 +963,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Benu</title>
 		<link href="https://fifty.snook.ca/restaurants/benu/"/>
-		<updated>2018-04-10T00:00:00-00:00</updated>
+		<updated>2018-04-10T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/benu/</id>
     <summary>Benu was the eighteenth but really the first restaurant on this quest. It was ranked 47th in 2019. It’s also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -986,7 +986,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Atelier Crenn</title>
 		<link href="https://fifty.snook.ca/restaurants/ateliercrenn/"/>
-		<updated>2019-07-12T00:00:00-00:00</updated>
+		<updated>2019-07-12T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/ateliercrenn/</id>
     <summary>Atelier Crenn is the 19th restaurant on the quest. It was 35th on the list in 2019. It is also a Michelin 3-star restaurant</summary>
 		<content type="html">
@@ -1079,7 +1079,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Alain Ducasse au Plaza Athénée</title>
 		<link href="https://fifty.snook.ca/restaurants/alainducasse/"/>
-		<updated>2019-09-16T00:00:00-00:00</updated>
+		<updated>2019-09-16T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/alainducasse/</id>
     <summary>Alain Ducasse au Plaza Athénée is the 20th restaurant on the quest. It was 13th on the list in 2017, 21st in 2018, and 16th in 2019. It is also a Michelin 3-star restaurant</summary>
 		<content type="html">
@@ -1182,7 +1182,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Arpège</title>
 		<link href="https://fifty.snook.ca/restaurants/arpege/"/>
-		<updated>2019-09-17T00:00:00-00:00</updated>
+		<updated>2019-09-17T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/arpege/</id>
     <summary>Arpège is the 21st restaurant on the quest. It was 12th on the list in 2017, and 8th in 2018 and 2019. It is also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -1286,7 +1286,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Alléno Paris au Pavillon Ledoyen</title>
 		<link href="https://fifty.snook.ca/restaurants/alleno/"/>
-		<updated>2019-09-17T00:00:00-00:00</updated>
+		<updated>2019-09-17T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/alleno/</id>
     <summary>Alléno is the 22nd restaurant on the quest. It was 31st on the list in 2017, 29th in 2018, and 25th in 2019. It is also a Michelin 3-star restaurant.</summary>
 		<content type="html">
@@ -1387,7 +1387,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Astrance</title>
 		<link href="https://fifty.snook.ca/restaurants/astrance/"/>
-		<updated>2019-09-18T00:00:00-00:00</updated>
+		<updated>2019-09-18T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/astrance/</id>
     <summary>Astrance is the 23rd restaurant on the quest. It was 46th on the list in 2017 and has not made it back on the list since. It is also a Michelin 2-star restaurant.</summary>
 		<content type="html">
@@ -1479,7 +1479,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Disfrutar</title>
 		<link href="https://fifty.snook.ca/restaurants/disfrutar/"/>
-		<updated>2019-11-26T00:00:00-00:00</updated>
+		<updated>2019-11-26T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/disfrutar/</id>
     <summary>Disfrutar is the 24th restaurant on the quest. It was 9th on the list in 2019 and 18th on the list in 2018. It is also a Michelin 2-star restaurant.</summary>
 		<content type="html">
@@ -1638,7 +1638,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Tickets</title>
 		<link href="https://fifty.snook.ca/restaurants/tickets/"/>
-		<updated>2019-11-28T00:00:00-00:00</updated>
+		<updated>2019-11-28T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/tickets/</id>
     <summary>Tickets is the 25th restaurant on the quest. It was 20th on the list in 2019,  32nd in 2018, and 25th in 2017. It is also a Michelin 2-star restaurant.</summary>
 		<content type="html">
@@ -1751,7 +1751,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Don Julio</title>
 		<link href="https://fifty.snook.ca/restaurants/donjulio/"/>
-		<updated>2019-12-13T00:00:00-00:00</updated>
+		<updated>2019-12-13T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/donjulio/</id>
     <summary>Don Julio is the 26th restaurant on the quest. It was 34th on the list in 2019.</summary>
 		<content type="html">
@@ -1809,7 +1809,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Tegui</title>
 		<link href="https://fifty.snook.ca/restaurants/tegui/"/>
-		<updated>2019-12-14T00:00:00-00:00</updated>
+		<updated>2019-12-14T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/tegui/</id>
     <summary>Tegui is the 27th restaurant on the quest. It was 49th on the list in 2017.</summary>
 		<content type="html">
@@ -1902,7 +1902,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Noma</title>
 		<link href="https://fifty.snook.ca/restaurants/noma/"/>
-		<updated>2020-02-28T00:00:00-00:00</updated>
+		<updated>2020-02-28T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/noma/</id>
     <summary>Noma is the 28th restaurant on the quest. It was 2nd on the list in 2019 and is a Michelin 2-star restaurant.</summary>
 		<content type="html">
@@ -2003,7 +2003,7 @@ Another dish that I really liked was the Jerusalem artichoke tamale.  &lt;/p&gt;
 	<entry>
 		<title>Frantzén</title>
 		<link href="https://fifty.snook.ca/restaurants/frantzen/"/>
-		<updated>2020-03-04T00:00:00-00:00</updated>
+		<updated>2020-03-04T00:00:00+00:00</updated>
 		<id>https://fifty.snook.ca/restaurants/frantzen/</id>
     <summary>Frantzén is the 29th restaurant on the quest. It was 21st on the list in 2019 and is a Michelin 3-star restaurant.</summary>
 		<content type="html">&lt;h1&gt;Frantzén&lt;/h1&gt;
